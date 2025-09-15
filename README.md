@@ -90,21 +90,21 @@ All dashboards are **interactive**, enabling stakeholders to filter, drill down,
 
 ## Conclusion ✅  
 
-This *Banking Data Analytics Project* empowers decision-makers with:  
+This Banking Data Analytics Project empowers decision-makers with:  
 
-- 📈 A clear view of **revenue growth patterns**  
-- 👥 Insights into **customer behavior & churn risk**  
-- 💰 Monitoring of **loan vs. deposit performance**  
-- 🏦 Region/branch-level **operational comparisons**  
+- 📈 A clear view of revenue growth patterns 
+- 👥 Insights into customer behavior & churn risk 
+- 💰 Monitoring of loan vs. deposit performance  
+- 🏦 Region/branch-level operational comparisons  
 
-By leveraging the power of **Tableau**, banks can uncover hidden insights, reduce risks, and improve overall financial performance.  
+By leveraging the power of Tableau, banks can uncover hidden insights, reduce risks, and improve overall financial performance.  
 
 ---
 
-## Connect with Me 🤝  
+## Connect with Me 🤝
 
-- **LinkedIn:** [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)  
-- **Portfolio:** [Your Portfolio Link](https://)  
+-  *LinkedIn*: [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
+-  *Portfolio:*[Your Portfolio Link](https://)  
 
 ⭐ Don’t forget to **star this repository** if you found it useful!  
 
