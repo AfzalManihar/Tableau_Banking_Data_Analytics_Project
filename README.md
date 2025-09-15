@@ -2,8 +2,7 @@
 
 ## Introduction  
 
-The *Banking Data Analytics Project* focuses on deriving actionable insights from a financial institution’s operational and customer data.  
-In today’s competitive banking sector, analyzing loan performance, deposits, customer retention, and regional growth is crucial for better decision-making.  
+The dashboard will provide a comprehensive view of key business metrics and data insights related to stakeholders, insurers, and policy performance. It will enable stakeholders to analyse premium trends, profitability, and asset distribution to make data-driven decisions.  
 
 This project leverages **Tableau** (with supporting tools like *Excel/SQL*) to explore KPIs, visualize trends, and present interactive dashboards.  
 The result is a powerful set of dashboards — **Stakeholder Insights** and **Performance Dashboard** — that enable decision-makers to monitor performance, assess risks, and enhance customer satisfaction.  
