@@ -9,6 +9,12 @@ This project leverages **Tableau** (with supporting tools like *Excel/SQL/Python
 The result is a powerful set of dashboards — **Stakeholder Insights** and **Performance Dashboard** — that enable decision-makers to monitor performance, assess risks, and enhance customer satisfaction.  
 
 ---
+## Dashboard Preview  
+
+---
+![Dashboard Preview](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Final_Dashboard.png)
+
+---
 
 ## Project Objectives 🎯  
 
@@ -44,14 +50,6 @@ This project is designed to achieve the following objectives:
 
 ---
 
-## Dashboard Preview  
-
----
-[Dashboard Preview PDF](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Tableau%20Banking%20Data%20Analytics.pdf)
-
----
-
----
 
 ## Visualization Tools  
 
