@@ -75,14 +75,6 @@ All dashboards are **interactive**, enabling stakeholders to filter, drill down,
 
 ---
 
-## How to Run / View 🔁  
-
-1.1. Clone this repository:  
-   ```bash
-   git clone https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project.git
-
----
-
 ## Conclusion ✅
 
 This Banking Data Analytics Project empowers decision-makers with:
@@ -93,12 +85,16 @@ This Banking Data Analytics Project empowers decision-makers with:
 - 🏦 Region/branch-level **operational comparisons**
 
 By leveraging the power of **Tableau**, banks can uncover hidden insights, reduce risks, and improve overall financial performance.
+
 ---
+
 ## Connect with Me 🤝
+
 - **LinkedIn:** [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
 - **Portfolio:** [Your Portfolio Link](https://)
 
 ⭐ Don’t forget to **star this repository** if you found it useful!
+
 
 
    
