@@ -10,7 +10,6 @@ The result is a powerful set of dashboards — **Stakeholder Insights** and **Pe
 
 ---
 ## Dashboard Preview  
-
 ---
 ![Dashboard Preview](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Final_Dashboard.png)
 
@@ -26,7 +25,6 @@ This project is designed to achieve the following objectives:
 - 📌 **Track loan performance** (disbursement vs. delinquency)  
 - 📌 **Evaluate revenue contribution** from different segments  
 - 📌 **Provide actionable insights** for improving retention, reducing risk, and increasing profitability  
-
 ---
 
 ## Dashboards  
@@ -47,9 +45,7 @@ This project is designed to achieve the following objectives:
 - 📊 [Tableau Project (Tableau Public Link)](https://public.tableau.com/app/profile/afzal.manihar/viz/TableauBankingDataAnalytics_17578559624050/StakeholderInsightsandPerformanceDashboard?publish=yes)  
 - 📂 [Download Dataset (Excel)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Finance%20record.xlsx)  
 
-
 ---
-
 
 ## Visualization Tools  
 
@@ -68,9 +64,7 @@ This project includes visuals such as:
 - **Maps** – for geographical performance analysis  
 
 All dashboards are **interactive**, enabling stakeholders to filter, drill down, and explore the data with ease.  
-
 ---
-
 ## Key Insights ✨  
 
 - 📊 Top branches showed highest YoY deposit growth  
@@ -99,11 +93,8 @@ This Banking Data Analytics Project empowers decision-makers with:
 - 🏦 Region/branch-level **operational comparisons**
 
 By leveraging the power of **Tableau**, banks can uncover hidden insights, reduce risks, and improve overall financial performance.
-
 ---
-
 ## Connect with Me 🤝
-
 - **LinkedIn:** [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
 - **Portfolio:** [Your Portfolio Link](https://)
 
