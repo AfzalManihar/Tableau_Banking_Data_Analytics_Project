@@ -35,11 +35,11 @@ This project is designed to achieve the following objectives:
 - Loan & deposit performance by customer/region  
 - Trends over time (YoY / MoM)  
 
-📖 [Download User Guide (Word)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/User%20Guide.docx)  
-📑 [View Final Look (PDF)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Tableau%20Banking%20Data%20Analytics.pdf)  
-📑 [Stakeholder Insights and Performance Dashboard (PDF)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.docx)
-📊 [Tableau project tableau server link]( https://public.tableau.com/app/profile/afzal.manihar/viz/TableauBankingDataAnalytics_17578559624050/StakeholderInsightsandPerformanceDashboard?publish=yes)
-📂 [CSV File](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Finance%20record.xlsx)
+- 📖 [Download User Guide (Word)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/User%20Guide.docx)  
+- 📑 [View Final Look (PDF)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Tableau%20Banking%20Data%20Analytics.pdf)  
+- 📑 [Stakeholder Insights and Performance Dashboard (Word)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Stakeholder%20Insights%20and%20Performance%20Dashboard.docx)  
+- 📊 [Tableau Project (Tableau Public Link)](https://public.tableau.com/app/profile/afzal.manihar/viz/TableauBankingDataAnalytics_17578559624050/StakeholderInsightsandPerformanceDashboard?publish=yes)  
+- 📂 [Download Dataset (Excel)](https://github.com/AfzalManihar/Tableau_Banking_Data_Analytics_Project/blob/main/Finance%20record.xlsx)  
 
 
 ---
