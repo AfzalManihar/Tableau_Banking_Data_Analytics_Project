@@ -5,7 +5,7 @@
 The *Banking Data Analytics Project* focuses on deriving actionable insights from a financial institution’s operational and customer data.  
 In today’s competitive banking sector, analyzing loan performance, deposits, customer retention, and regional growth is crucial for better decision-making.  
 
-This project leverages **Tableau** (with supporting tools like *Excel/SQL/Python*) to explore KPIs, visualize trends, and present interactive dashboards.  
+This project leverages **Tableau** (with supporting tools like *Excel/SQL*) to explore KPIs, visualize trends, and present interactive dashboards.  
 The result is a powerful set of dashboards — **Stakeholder Insights** and **Performance Dashboard** — that enable decision-makers to monitor performance, assess risks, and enhance customer satisfaction.  
 
 ---
@@ -73,9 +73,9 @@ All dashboards are **interactive**, enabling stakeholders to filter, drill down,
 
 ## Key Insights ✨  
 
-- 📊 Top 3 branches showed highest YoY deposit growth  
+- 📊 Top branches showed highest YoY deposit growth  
 - 👥 High-value customers contribute disproportionately to loan portfolio  
-- ⚠️ Certain regions show rising loan delinquency trends in the past 12 months  
+- ⚠️ Certain regions show rising loan delinquency trends  
 - 🌍 Regional comparison highlights gaps in product adoption  
 - 🔑 Actionable insights: Improve retention strategies in high-churn segments & strengthen risk management in loan-heavy regions  
 
