@@ -90,7 +90,7 @@ By leveraging the power of **Tableau**, banks can uncover hidden insights, reduc
 ## Connect with Me 🤝
 
 - **LinkedIn:** [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
-- **Portfolio:** [Your Portfolio Link](https://)
+- **Portfolio:** [Portfolio Link](https://)
 
 ⭐ Don’t forget to **star this repository** if you found it useful!
 
